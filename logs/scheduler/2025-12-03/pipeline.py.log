@@ -1,0 +1,50 @@
+[2025-12-03T13:33:42.199-0500] {processor.py:186} INFO - Started process (PID=4855) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:33:42.200-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py for tasks to queue
+[2025-12-03T13:33:42.200-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.200-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:33:42.205-0500] {processor.py:925} INFO - DAG(s) 'nyc_taxi_elt_pipeline' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:33:42.275-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.275-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG:nyc_taxi_elt_pipeline
+[2025-12-03T13:33:42.279-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.279-0500] {override.py:1930} INFO - Created Permission View: can edit on DAG:nyc_taxi_elt_pipeline
+[2025-12-03T13:33:42.282-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.282-0500] {override.py:1930} INFO - Created Permission View: can read on DAG:nyc_taxi_elt_pipeline
+[2025-12-03T13:33:42.285-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.285-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:nyc_taxi_elt_pipeline
+[2025-12-03T13:33:42.288-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.288-0500] {override.py:1930} INFO - Created Permission View: can read on DAG Run:nyc_taxi_elt_pipeline
+[2025-12-03T13:33:42.291-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.291-0500] {override.py:1930} INFO - Created Permission View: can create on DAG Run:nyc_taxi_elt_pipeline
+[2025-12-03T13:33:42.293-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.293-0500] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:nyc_taxi_elt_pipeline
+[2025-12-03T13:33:42.293-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.293-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:33:42.298-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.298-0500] {dag.py:3262} INFO - Creating ORM DAG for nyc_taxi_elt_pipeline
+[2025-12-03T13:33:42.302-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:42.302-0500] {dag.py:4180} INFO - Setting next_dagrun for nyc_taxi_elt_pipeline to 2026-01-01 00:00:00+00:00, run_after=2026-02-01 00:00:00+00:00
+[2025-12-03T13:33:42.308-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py took 0.147 seconds
+[2025-12-03T13:35:52.737-0500] {processor.py:186} INFO - Started process (PID=5038) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:35:52.738-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py for tasks to queue
+[2025-12-03T13:35:52.738-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:35:52.738-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:35:52.744-0500] {processor.py:925} INFO - DAG(s) 'nyc_taxi_elt_pipeline' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:35:52.790-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:35:52.790-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:35:52.800-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:35:52.800-0500] {dag.py:4180} INFO - Setting next_dagrun for nyc_taxi_elt_pipeline to 2026-01-01 00:00:00+00:00, run_after=2026-02-01 00:00:00+00:00
+[2025-12-03T13:35:52.815-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py took 0.119 seconds
+[2025-12-03T13:37:31.039-0500] {processor.py:186} INFO - Started process (PID=5175) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:37:31.041-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py for tasks to queue
+[2025-12-03T13:37:31.041-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:31.041-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:37:31.046-0500] {processor.py:925} INFO - DAG(s) 'nyc_taxi_elt_pipeline' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:37:31.085-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:31.084-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:37:31.092-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:31.091-0500] {dag.py:4180} INFO - Setting next_dagrun for nyc_taxi_elt_pipeline to 2026-01-01 00:00:00+00:00, run_after=2026-02-01 00:00:00+00:00
+[2025-12-03T13:37:31.102-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py took 0.098 seconds
+[2025-12-03T13:39:05.307-0500] {processor.py:186} INFO - Started process (PID=5358) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:39:05.308-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py for tasks to queue
+[2025-12-03T13:39:05.308-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:05.308-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:39:05.313-0500] {processor.py:925} INFO - DAG(s) 'nyc_taxi_elt_pipeline' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:39:05.352-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:05.352-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:39:05.360-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:05.360-0500] {dag.py:4180} INFO - Setting next_dagrun for nyc_taxi_elt_pipeline to 2026-01-01 00:00:00+00:00, run_after=2026-02-01 00:00:00+00:00
+[2025-12-03T13:39:05.368-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py took 0.104 seconds
+[2025-12-03T13:40:39.605-0500] {processor.py:186} INFO - Started process (PID=5565) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:40:39.606-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py for tasks to queue
+[2025-12-03T13:40:39.607-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:40:39.607-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:40:39.611-0500] {processor.py:925} INFO - DAG(s) 'nyc_taxi_elt_pipeline' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:40:39.651-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:40:39.651-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:40:39.659-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:40:39.659-0500] {dag.py:4180} INFO - Setting next_dagrun for nyc_taxi_elt_pipeline to 2026-01-01 00:00:00+00:00, run_after=2026-02-01 00:00:00+00:00
+[2025-12-03T13:40:39.667-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py took 0.101 seconds
+[2025-12-03T13:42:18.063-0500] {processor.py:186} INFO - Started process (PID=6417) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:42:18.064-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py for tasks to queue
+[2025-12-03T13:42:18.065-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:42:18.065-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:42:18.069-0500] {processor.py:925} INFO - DAG(s) 'nyc_taxi_elt_pipeline' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py
+[2025-12-03T13:42:18.109-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:42:18.109-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:42:18.117-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:42:18.117-0500] {dag.py:4180} INFO - Setting next_dagrun for nyc_taxi_elt_pipeline to 2026-01-01 00:00:00+00:00, run_after=2026-02-01 00:00:00+00:00
+[2025-12-03T13:42:18.125-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/dags/pipeline.py took 0.099 seconds

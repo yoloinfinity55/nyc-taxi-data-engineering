@@ -1,0 +1,57 @@
+[2025-12-03T13:06:20.211-0500] {processor.py:186} INFO - Started process (PID=20920) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:06:20.212-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-12-03T13:06:20.212-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.212-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:06:20.217-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:06:20.318-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.318-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2025-12-03T13:06:20.323-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.323-0500] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2025-12-03T13:06:20.327-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.327-0500] {override.py:1930} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2025-12-03T13:06:20.332-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.332-0500] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_skip_dag
+[2025-12-03T13:06:20.336-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.336-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_skip_dag
+[2025-12-03T13:06:20.339-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.339-0500] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_skip_dag
+[2025-12-03T13:06:20.344-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.343-0500] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_skip_dag
+[2025-12-03T13:06:20.344-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.344-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:06:20.352-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.352-0500] {dag.py:3262} INFO - Creating ORM DAG for example_skip_dag
+[2025-12-03T13:06:20.356-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:20.356-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-12-02 00:00:00+00:00, run_after=2025-12-03 00:00:00+00:00
+[2025-12-03T13:06:20.368-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.205 seconds
+[2025-12-03T13:31:42.187-0500] {processor.py:186} INFO - Started process (PID=4712) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:31:42.188-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-12-03T13:31:42.189-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:42.189-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:31:42.192-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:31:42.231-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:42.230-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:31:42.238-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:42.238-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-12-02 00:00:00+00:00, run_after=2025-12-03 00:00:00+00:00
+[2025-12-03T13:31:42.245-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.093 seconds
+[2025-12-03T13:34:29.836-0500] {processor.py:186} INFO - Started process (PID=4912) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:34:29.838-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-12-03T13:34:29.838-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:29.838-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:34:29.841-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:34:29.878-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:29.878-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:34:29.885-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:29.885-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-12-02 00:00:00+00:00, run_after=2025-12-03 00:00:00+00:00
+[2025-12-03T13:34:29.891-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.087 seconds
+[2025-12-03T13:36:40.914-0500] {processor.py:186} INFO - Started process (PID=5120) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:36:40.914-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-12-03T13:36:40.915-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:40.915-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:36:40.919-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:36:40.966-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:40.965-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:36:40.975-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:40.974-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-12-02 00:00:00+00:00, run_after=2025-12-03 00:00:00+00:00
+[2025-12-03T13:36:40.983-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.110 seconds
+[2025-12-03T13:38:19.226-0500] {processor.py:186} INFO - Started process (PID=5231) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:38:19.227-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-12-03T13:38:19.227-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:38:19.227-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:38:19.231-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:38:19.271-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:38:19.270-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:38:19.278-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:38:19.278-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-12-02 00:00:00+00:00, run_after=2025-12-03 00:00:00+00:00
+[2025-12-03T13:38:19.285-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.096 seconds
+[2025-12-03T13:39:51.574-0500] {processor.py:186} INFO - Started process (PID=5460) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:39:51.576-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-12-03T13:39:51.576-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:51.576-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:39:51.579-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:39:51.619-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:51.619-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:39:51.627-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:51.626-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-12-02 00:00:00+00:00, run_after=2025-12-03 00:00:00+00:00
+[2025-12-03T13:39:51.634-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.096 seconds
+[2025-12-03T13:41:28.868-0500] {processor.py:186} INFO - Started process (PID=5693) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:41:28.870-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-12-03T13:41:28.870-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:28.870-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:41:28.874-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-12-03T13:41:28.915-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:28.915-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:41:28.924-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:28.924-0500] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-12-02 00:00:00+00:00, run_after=2025-12-03 00:00:00+00:00
+[2025-12-03T13:41:28.932-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.102 seconds

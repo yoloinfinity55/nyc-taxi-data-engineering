@@ -1,0 +1,9 @@
+taxi_transform:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: '/Users/minijohn/Dev/nyc_taxi_portfolio/data_lake/processed/nyc_taxi.duckdb'
+      extensions:
+        - parquet
+      threads: 4

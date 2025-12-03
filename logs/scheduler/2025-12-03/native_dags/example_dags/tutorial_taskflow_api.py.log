@@ -1,0 +1,71 @@
+[2025-12-03T13:05:26.110-0500] {processor.py:186} INFO - Started process (PID=20827) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:05:26.111-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-12-03T13:05:26.111-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.111-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:05:26.131-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:05:26.239-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.238-0500] {override.py:1930} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api
+[2025-12-03T13:05:26.245-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.245-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api
+[2025-12-03T13:05:26.248-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.248-0500] {override.py:1930} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api
+[2025-12-03T13:05:26.252-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.252-0500] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:tutorial_taskflow_api
+[2025-12-03T13:05:26.255-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.255-0500] {override.py:1930} INFO - Created Permission View: can read on DAG Run:tutorial_taskflow_api
+[2025-12-03T13:05:26.259-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.259-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:tutorial_taskflow_api
+[2025-12-03T13:05:26.262-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.262-0500] {override.py:1930} INFO - Created Permission View: can create on DAG Run:tutorial_taskflow_api
+[2025-12-03T13:05:26.263-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.262-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:05:26.268-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.268-0500] {dag.py:3262} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2025-12-03T13:05:26.268-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:26.268-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-12-03T13:05:26.278-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.215 seconds
+[2025-12-03T13:09:34.750-0500] {processor.py:186} INFO - Started process (PID=21235) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:09:34.751-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-12-03T13:09:34.752-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:09:34.752-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:09:34.774-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:09:34.822-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:09:34.822-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:09:34.828-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:09:34.828-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-12-03T13:09:34.838-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.134 seconds
+[2025-12-03T13:31:08.649-0500] {processor.py:186} INFO - Started process (PID=4653) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:31:08.650-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-12-03T13:31:08.650-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:08.650-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:31:08.665-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:31:08.702-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:08.702-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:31:08.710-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:08.709-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-12-03T13:31:08.718-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.110 seconds
+[2025-12-03T13:33:59.836-0500] {processor.py:186} INFO - Started process (PID=4880) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:33:59.837-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-12-03T13:33:59.838-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:59.838-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:33:59.854-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:33:59.895-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:59.894-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:33:59.900-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:33:59.899-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-12-03T13:33:59.907-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.119 seconds
+[2025-12-03T13:36:09.288-0500] {processor.py:186} INFO - Started process (PID=5078) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:36:09.289-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-12-03T13:36:09.290-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:09.290-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:36:09.305-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:36:09.344-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:09.343-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:36:09.349-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:09.349-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-12-03T13:36:09.356-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.108 seconds
+[2025-12-03T13:37:48.116-0500] {processor.py:186} INFO - Started process (PID=5199) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:37:48.117-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-12-03T13:37:48.117-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:48.117-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:37:48.132-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:37:48.169-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:48.169-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:37:48.174-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:48.174-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-12-03T13:37:48.181-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.100 seconds
+[2025-12-03T13:39:21.991-0500] {processor.py:186} INFO - Started process (PID=5414) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:39:21.992-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-12-03T13:39:21.992-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:21.992-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:39:22.007-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:39:22.044-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:22.044-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:39:22.049-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:22.049-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-12-03T13:39:22.056-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.102 seconds
+[2025-12-03T13:40:56.079-0500] {processor.py:186} INFO - Started process (PID=5597) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:40:56.080-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-12-03T13:40:56.080-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:40:56.080-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:40:56.095-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:40:56.134-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:40:56.133-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:40:56.139-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:40:56.138-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-12-03T13:40:56.146-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.106 seconds
+[2025-12-03T13:42:37.799-0500] {processor.py:186} INFO - Started process (PID=6536) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:42:37.800-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-12-03T13:42:37.800-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:42:37.800-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:42:37.816-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-12-03T13:42:37.860-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:42:37.860-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:42:37.865-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:42:37.865-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-12-03T13:42:37.874-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.115 seconds

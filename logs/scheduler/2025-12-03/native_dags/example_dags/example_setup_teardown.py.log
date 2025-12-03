@@ -1,0 +1,57 @@
+[2025-12-03T13:06:37.002-0500] {processor.py:186} INFO - Started process (PID=20956) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:06:37.002-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-12-03T13:06:37.003-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.002-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:06:37.014-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:06:37.117-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.116-0500] {override.py:1930} INFO - Created Permission View: can read on DAG:example_setup_teardown
+[2025-12-03T13:06:37.123-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.123-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_setup_teardown
+[2025-12-03T13:06:37.130-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.129-0500] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_setup_teardown
+[2025-12-03T13:06:37.138-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.138-0500] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_setup_teardown
+[2025-12-03T13:06:37.143-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.143-0500] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_setup_teardown
+[2025-12-03T13:06:37.150-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.149-0500] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_setup_teardown
+[2025-12-03T13:06:37.155-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.154-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_setup_teardown
+[2025-12-03T13:06:37.155-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.155-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:06:37.163-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.163-0500] {dag.py:3262} INFO - Creating ORM DAG for example_setup_teardown
+[2025-12-03T13:06:37.163-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:06:37.163-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-12-03T13:06:37.176-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.233 seconds
+[2025-12-03T13:31:50.310-0500] {processor.py:186} INFO - Started process (PID=4722) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:31:50.311-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-12-03T13:31:50.312-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:50.312-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:31:50.316-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:31:50.356-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:50.356-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:31:50.361-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:50.360-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-12-03T13:31:50.368-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.093 seconds
+[2025-12-03T13:34:43.377-0500] {processor.py:186} INFO - Started process (PID=4940) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:34:43.378-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-12-03T13:34:43.378-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:43.378-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:34:43.382-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:34:43.421-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:43.420-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:34:43.425-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:43.425-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-12-03T13:34:43.432-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.089 seconds
+[2025-12-03T13:36:51.395-0500] {processor.py:186} INFO - Started process (PID=5129) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:36:51.396-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-12-03T13:36:51.397-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:51.396-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:36:51.401-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:36:51.447-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:51.446-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:36:51.452-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:51.452-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-12-03T13:36:51.462-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.107 seconds
+[2025-12-03T13:38:27.698-0500] {processor.py:186} INFO - Started process (PID=5240) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:38:27.699-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-12-03T13:38:27.699-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:38:27.699-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:38:27.703-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:38:27.741-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:38:27.741-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:38:27.745-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:38:27.745-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-12-03T13:38:27.752-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.089 seconds
+[2025-12-03T13:39:59.445-0500] {processor.py:186} INFO - Started process (PID=5476) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:39:59.446-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-12-03T13:39:59.447-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:59.447-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:39:59.451-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:39:59.491-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:59.491-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:39:59.495-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:59.495-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-12-03T13:39:59.502-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.094 seconds
+[2025-12-03T13:41:37.226-0500] {processor.py:186} INFO - Started process (PID=5714) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:41:37.227-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-12-03T13:41:37.228-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:37.228-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:41:37.231-0500] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-12-03T13:41:37.269-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:37.269-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:41:37.274-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:37.274-0500] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-12-03T13:41:37.282-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.093 seconds

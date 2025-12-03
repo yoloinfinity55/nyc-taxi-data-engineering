@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw_data
+    schema: main
+    tables:
+      - name: yellow_tripdata
+        external:
+          location: '/Users/minijohn/Dev/nyc_taxi_portfolio/data_lake/raw/yellow_tripdata_*.parquet'

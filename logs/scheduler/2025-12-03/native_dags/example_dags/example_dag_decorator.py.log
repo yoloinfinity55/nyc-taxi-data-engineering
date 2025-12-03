@@ -1,0 +1,43 @@
+[2025-12-03T13:08:25.601-0500] {processor.py:186} INFO - Started process (PID=21133) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:08:25.601-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-12-03T13:08:25.602-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.602-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:08:25.757-0500] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:08:25.846-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.845-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_dag_decorator
+[2025-12-03T13:08:25.855-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.855-0500] {override.py:1930} INFO - Created Permission View: can read on DAG:example_dag_decorator
+[2025-12-03T13:08:25.859-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.859-0500] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_dag_decorator
+[2025-12-03T13:08:25.865-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.864-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_dag_decorator
+[2025-12-03T13:08:25.871-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.871-0500] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_dag_decorator
+[2025-12-03T13:08:25.875-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.874-0500] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_dag_decorator
+[2025-12-03T13:08:25.880-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.880-0500] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_dag_decorator
+[2025-12-03T13:08:25.881-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.880-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:08:25.888-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.888-0500] {dag.py:3262} INFO - Creating ORM DAG for example_dag_decorator
+[2025-12-03T13:08:25.889-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:08:25.889-0500] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-12-03T13:08:25.902-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.350 seconds
+[2025-12-03T13:32:38.615-0500] {processor.py:186} INFO - Started process (PID=4787) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:32:38.616-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-12-03T13:32:38.616-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:32:38.616-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:32:38.656-0500] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:32:38.734-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:32:38.734-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:32:38.738-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:32:38.738-0500] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-12-03T13:32:38.745-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.167 seconds
+[2025-12-03T13:35:28.590-0500] {processor.py:186} INFO - Started process (PID=5001) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:35:28.591-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-12-03T13:35:28.592-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:35:28.592-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:35:28.624-0500] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:35:28.711-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:35:28.711-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:35:28.715-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:35:28.715-0500] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-12-03T13:35:28.723-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.169 seconds
+[2025-12-03T13:38:44.172-0500] {processor.py:186} INFO - Started process (PID=5295) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:38:44.174-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-12-03T13:38:44.174-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:38:44.174-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:38:44.214-0500] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:38:44.301-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:38:44.301-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:38:44.306-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:38:44.305-0500] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-12-03T13:38:44.313-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.178 seconds
+[2025-12-03T13:41:54.669-0500] {processor.py:186} INFO - Started process (PID=5756) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:41:54.671-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-12-03T13:41:54.671-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:54.671-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:41:54.708-0500] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-12-03T13:41:54.790-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:54.789-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-12-03T13:41:54.794-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:54.794-0500] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-12-03T13:41:54.803-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.181 seconds

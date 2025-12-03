@@ -1,0 +1,5 @@
+venv/
+data_lake/
+__pycache__/
+.DS_Store
+*.duckdb

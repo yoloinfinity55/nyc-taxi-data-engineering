@@ -1,0 +1,80 @@
+[2025-12-03T13:05:41.638-0500] {processor.py:186} INFO - Started process (PID=20851) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:05:41.639-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-12-03T13:05:41.639-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.639-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:05:41.662-0500] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:05:41.749-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.749-0500] {override.py:1930} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2025-12-03T13:05:41.754-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.754-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2025-12-03T13:05:41.757-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.757-0500] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2025-12-03T13:05:41.762-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.762-0500] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_xcom_args_with_operators
+[2025-12-03T13:05:41.765-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.764-0500] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_xcom_args_with_operators
+[2025-12-03T13:05:41.768-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.767-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_xcom_args_with_operators
+[2025-12-03T13:05:41.772-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.771-0500] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_xcom_args_with_operators
+[2025-12-03T13:05:41.778-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.778-0500] {override.py:1930} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2025-12-03T13:05:41.781-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.781-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2025-12-03T13:05:41.784-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.784-0500] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2025-12-03T13:05:41.788-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.788-0500] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_xcom_args
+[2025-12-03T13:05:41.791-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.790-0500] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_xcom_args
+[2025-12-03T13:05:41.794-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.793-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_xcom_args
+[2025-12-03T13:05:41.797-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.796-0500] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_xcom_args
+[2025-12-03T13:05:41.797-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.797-0500] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-12-03T13:05:41.802-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.802-0500] {dag.py:3262} INFO - Creating ORM DAG for example_xcom_args
+[2025-12-03T13:05:41.803-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.802-0500] {dag.py:3262} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2025-12-03T13:05:41.803-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.803-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-12-03T13:05:41.803-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:05:41.803-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-12-03T13:05:41.812-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.221 seconds
+[2025-12-03T13:09:48.999-0500] {processor.py:186} INFO - Started process (PID=21260) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:09:49.000-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-12-03T13:09:49.002-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:09:49.001-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:09:49.025-0500] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:09:49.077-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:09:49.077-0500] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-12-03T13:09:49.083-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:09:49.083-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-12-03T13:09:49.087-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:09:49.087-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-12-03T13:09:49.096-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.147 seconds
+[2025-12-03T13:31:16.966-0500] {processor.py:186} INFO - Started process (PID=4666) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:31:16.967-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-12-03T13:31:16.967-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:16.967-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:31:16.983-0500] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:31:17.022-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:17.022-0500] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-12-03T13:31:17.028-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:17.027-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-12-03T13:31:17.029-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:31:17.029-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-12-03T13:31:17.036-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.106 seconds
+[2025-12-03T13:34:08.860-0500] {processor.py:186} INFO - Started process (PID=4889) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:34:08.861-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-12-03T13:34:08.861-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:08.861-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:34:08.878-0500] {processor.py:925} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:34:08.923-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:08.923-0500] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-12-03T13:34:08.928-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:08.928-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-12-03T13:34:08.930-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:34:08.930-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-12-03T13:34:08.939-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.123 seconds
+[2025-12-03T13:36:17.796-0500] {processor.py:186} INFO - Started process (PID=5095) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:36:17.797-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-12-03T13:36:17.798-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:17.798-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:36:17.813-0500] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:36:17.852-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:17.852-0500] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-12-03T13:36:17.857-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:17.857-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-12-03T13:36:17.858-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:36:17.858-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-12-03T13:36:17.865-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.104 seconds
+[2025-12-03T13:37:56.316-0500] {processor.py:186} INFO - Started process (PID=5208) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:37:56.317-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-12-03T13:37:56.318-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:56.318-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:37:56.334-0500] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:37:56.373-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:56.373-0500] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-12-03T13:37:56.379-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:56.379-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-12-03T13:37:56.380-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:37:56.380-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-12-03T13:37:56.387-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.109 seconds
+[2025-12-03T13:39:30.059-0500] {processor.py:186} INFO - Started process (PID=5425) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:39:30.060-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-12-03T13:39:30.061-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:30.061-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:39:30.076-0500] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:39:30.114-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:30.114-0500] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-12-03T13:39:30.119-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:30.119-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-12-03T13:39:30.120-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:39:30.120-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-12-03T13:39:30.127-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.104 seconds
+[2025-12-03T13:41:04.369-0500] {processor.py:186} INFO - Started process (PID=5626) to work on /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:41:04.370-0500] {processor.py:914} INFO - Processing file /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-12-03T13:41:04.371-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:04.370-0500] {dagbag.py:588} INFO - Filling up the DagBag from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:41:04.386-0500] {processor.py:925} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-12-03T13:41:04.426-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:04.426-0500] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-12-03T13:41:04.432-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:04.431-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-12-03T13:41:04.433-0500] {logging_mixin.py:190} INFO - [2025-12-03T13:41:04.433-0500] {dag.py:4180} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-12-03T13:41:04.441-0500] {processor.py:208} INFO - Processing /Users/minijohn/Dev/nyc_taxi_portfolio/.venv/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.109 seconds
